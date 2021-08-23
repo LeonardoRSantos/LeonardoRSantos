@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Eu sou o Leonardo Rodrigues
 
-<!--
-**LeonardoRSantos/LeonardoRSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Em busca de uma oportunidade...
+- 🌱 Estudando Java
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/LeonardoRSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Leonardo-JA" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Leonardo-SP" height="30" width="100" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Leonardo-SQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Leonardo-POST" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">    
+</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+  
+<div>  
+  <a href="https://www.instagram.com/lleonardorsantosl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:leonardoworkbench@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-rodrigues-2864471b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.facebook.com/UchihaMadara131" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
+ 
+</div>
