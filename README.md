@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Rodrigues
 
-- 🔭 Em busca de uma oportunidade...
-- 🌱 Estudando Java
+- 🔭 Em busca de novas oportunidades...
+- 🌱 Trabalhando com Java
 
  <div>
   <a href="https://github.com/LeonardoRSantos">
