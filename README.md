@@ -84,12 +84,11 @@ Abraço.
 <h2>⚙️ Estatísticas:</h2>
 
 <br>
-<div align="left">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>   
-  
-  <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=blue-green"/>  
 
-</div>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>     
+<img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=blue-green"/>  
+
+
 
 
 
