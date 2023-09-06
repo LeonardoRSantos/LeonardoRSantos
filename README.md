@@ -84,9 +84,11 @@ Abraço.
 <h2>⚙️ Estatísticas:</h2>
 
 <br>
+<div align="left">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=tokyonight"/>  
+</div>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br><br><br><br><br><br><br><br><br><br>
 
