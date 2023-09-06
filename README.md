@@ -85,13 +85,16 @@ Abraço.
 
 <br>
 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>     
-<img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=blue-green"/>  
-
-
-
-
-
+<table>
+   <tr>
+      <td>
+          <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeonardoRSantos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>     
+      </td>
+    <td>
+      <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRSantos&layout=compact&langs_count=7&theme=blue-green"/>  
+    </td>
+ </tr>
+</table>
 
 
 <br><br><br><br><br><br><br><br><br><br>
