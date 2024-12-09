@@ -151,6 +151,15 @@ Abraço.
         </a>
       </td>    
     </tr>
+    <tr>
+      <td>06/11/2024</td>
+      <td>Projeto Desafio Talent Four</td>
+      <td align="center">
+        <a href="https://github.com/LeonardoRSantos/TalentFour-Desafio">
+           <img align="center" alt="Link" src="https://img.shields.io/badge/Link-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
