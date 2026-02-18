@@ -20,7 +20,7 @@ Vou ser breve, mais informações vocês poderão acessar via LinkedIn. Tá afim
 
 Abraço.
 
-<a href="https://www.linkedin.com/in/leonardo-2864471b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonardorodrisantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [![Github](https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/LeonardoRSantos/) <a href =  "mailto:leonardoworkbench@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a><a href="https://wa.me/5598981972712" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
